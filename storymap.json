@@ -1,0 +1,13 @@
+{
+    "width": 800,                
+    "height": 500,               
+    "font_css": "serif",              
+    "calculate_zoom": true,             
+    "storymap": {
+        "language": "EN",          
+        "map_type": string,          
+        "map_as_image": false,       
+        "map_subdomains": string,   
+        "slides": [object]
+    }
+}
