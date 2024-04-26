@@ -1,0 +1,14 @@
+#main-div {
+    background-color: aliceblue;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20%;
+    border: 3px solid rebeccapurple;
+}
+
+#shape {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    margin: 20%;
+}
